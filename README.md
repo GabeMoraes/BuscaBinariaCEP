@@ -25,12 +25,12 @@ A saída do programa, caso tenha sido bem-sucedido, deverá aparecer no seguinte
 Tamanho do arquivo: Y (em bytes)
 
 Quantidade de registros: Z (quantidade de endereços)
-_Linha contendo o logradouro_
-_Linha contendo o bairro_
-_Linha contendo a cidade_
-_Linha contendo o estado_
-_Linha contendo a sigla do estado_
-_Linha contendo o CEP completo_
+1. _Linha contendo o logradouro_
+2. _Linha contendo o bairro_
+3. _Linha contendo a cidade_
+4. _Linha contendo o estado_
+5. _Linha contendo a sigla do estado_
+6. _Linha contendo o CEP completo_
 
 Quantidade de comparações: W (quantidade de comparações feitas pelo algoritmo até encontrar o CEP buscado).
 
